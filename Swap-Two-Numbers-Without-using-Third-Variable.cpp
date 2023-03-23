@@ -7,6 +7,6 @@ int main()
     a=a^b;
     b=b^a;
     a=a^b;
-    cout<<"a--"<<a<<"  b--"<<b;
+    cout<<"a--"<<a<<endl<<"  b--"<<b;
   return 0;
 }
